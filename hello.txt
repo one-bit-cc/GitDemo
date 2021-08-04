@@ -17,4 +17,4 @@ hello world!
 hello world!
 hello world!
 hello world! master test
-hello world!ccccccccccccccchot_fix
+hello world! hot_fix test
